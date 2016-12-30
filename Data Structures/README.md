@@ -17,7 +17,6 @@ scores = [81, 86, 97, 99, 97, 99]
 empty_list = list()
 str_list = list('abc')    # ['a', 'b', 'c']
 ```
-- - -
 
 ### Looping lists
 * Basic Usage
@@ -40,6 +39,8 @@ for item in sorted(list):
 1 tac
 2 toe
 ```
+
+- - -
 
 ## Dictionary
 Dictionary is an **unordered** set of key-value pairs. [(PyDoc)][2]
