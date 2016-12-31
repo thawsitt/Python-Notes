@@ -1,6 +1,6 @@
 # Python-Notes
 
-Keeping track of knowledge in my Python journey.
+> A curated list of Python knowledge.
 
 ## Table of Contents
 
