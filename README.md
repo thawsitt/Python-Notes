@@ -29,6 +29,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python#awesome-pyt
 
 - [Built-in Functions](https://docs.python.org/3/library/functions.html)
 - [Reserved Keywords](https://docs.python.org/3.6/reference/lexical_analysis.html#keywords)
+- [\*-operator for unpacking arguments](https://docs.python.org/3.6/index.html)
 
 ## Data Structures
 
