@@ -25,7 +25,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python#awesome-pyt
 ## Guides
 
 - [Intermediate Python](http://book.pythontips.com/en/latest/)
-- [Intermediate Pythonista](http://intermediatepythonista.com/)[book](https://leanpub.com/intermediatepython/read)
+- [Intermediate Pythonista](http://intermediatepythonista.com/) [(book)](https://leanpub.com/intermediatepython/read)
 - [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 
 ## Data Structures
