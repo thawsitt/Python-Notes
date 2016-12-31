@@ -5,7 +5,7 @@
 ## Contents
 
 - [Python Docs](#python-docs)
-- [PEPs](#peps)
+- [PEP - Python Enhancement Proposals](#peps)
 - [Data Structures](https://github.com/thawsitt/Python-Notes/tree/master/Data%20Structures)
 
 ## Python Docs
