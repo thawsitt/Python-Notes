@@ -9,6 +9,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python#awesome-pyt
 - [Documents](#contents)
   - [Python Docs](#python-docs)
   - [PEP - Python Enhancement Proposals](#pep)
+- [Guides](#guides)
 - [Data Structures](#data-structures)
 
 ## Python Docs
@@ -20,6 +21,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python#awesome-pyt
 
 - [PEP 8 - The Style Guide for Python](https://www.python.org/dev/peps/pep-0008/)
 - [PEP 20 - The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+
+## Guides
+
+- [Intermediate Python](http://book.pythontips.com/en/latest/)
+- [Intermediate Pythonista](http://intermediatepythonista.com/)[book](https://leanpub.com/intermediatepython/read)
+- [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 
 ## Data Structures
 
