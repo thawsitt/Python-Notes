@@ -2,11 +2,9 @@
 
 > A curated list of Python knowledge.
 
-## Contents
-
 - [Python Docs](#python-docs)
 - [PEP - Python Enhancement Proposals](#pep)
-- [Data Structures](https://github.com/thawsitt/Python-Notes/tree/master/Data%20Structures)
+- [Data Structures](#data-structures)
 
 ## Python Docs
 
@@ -17,4 +15,12 @@
 
 - [PEP 8 - The Style Guide for Python](https://www.python.org/dev/peps/pep-0008/)
 - [PEP 20 - The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+
+## Data Structures
+
+- [List](https://docs.python.org/3.5/tutorial/datastructures.html#more-on-lists)
+  - Using lists as [Stacks](https://docs.python.org/3.5/tutorial/datastructures.html#using-lists-as-stacks), [Queues](https://docs.python.org/3.5/tutorial/datastructures.html#using-lists-as-queues)
+- [Tuple](https://docs.python.org/3.5/tutorial/datastructures.html#tuples-and-sequences)
+- [Set](https://docs.python.org/3.5/tutorial/datastructures.html#sets)
+- [Dictionary](https://docs.python.org/3.5/tutorial/datastructures.html#dictionaries)
 
