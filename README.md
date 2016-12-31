@@ -9,7 +9,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python#awesome-pyt
 - [Documents](#contents)
   - [Python Docs](#python-docs)
   - [PEP - Python Enhancement Proposals](#pep)
-- [Essential Python Knowledge](#essential-python-knowledge)
+- [Essentials](#essentials)
 - [Data Structures](#data-structures)
 - [Guides](#guides)
 - [License](#license)
@@ -25,7 +25,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python#awesome-pyt
 - [PEP 8 - The Style Guide for Python](https://www.python.org/dev/peps/pep-0008/)
 - [PEP 20 - The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
-## Essential Python Knowledge
+## Essentials
 
 - [Built-in Functions](https://docs.python.org/3/library/functions.html)
 - [Reserved Keywords](https://docs.python.org/3.6/reference/lexical_analysis.html#keywords)
