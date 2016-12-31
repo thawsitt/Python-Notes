@@ -6,8 +6,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python#awesome-pyt
 
 ## Contents
 
-- [Python Docs](#python-docs)
-- [PEP - Python Enhancement Proposals](#pep)
+- [Documents](#contents)
+  - [Python Docs](#python-docs)
+  - [PEP - Python Enhancement Proposals](#pep)
 - [Data Structures](#data-structures)
 
 ## Python Docs
