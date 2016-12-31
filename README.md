@@ -9,12 +9,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python#awesome-pyt
 - [Documents](#contents)
   - [Python Docs](#python-docs)
   - [PEP - Python Enhancement Proposals](#pep)
-- [Guides](#guides)
+- [Essential Python Knowledge](#essential-python-knowledge)
 - [Data Structures](#data-structures)
+- [Guides](#guides)
 - [License](#license)
 
 ## Python Docs
 
+- [Python 3.6](https://docs.python.org/3.6/)
 - [Python 3.5](https://docs.python.org/3.5/)
 - [Python 2.7](https://docs.python.org/2.7/)
 
@@ -23,11 +25,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python#awesome-pyt
 - [PEP 8 - The Style Guide for Python](https://www.python.org/dev/peps/pep-0008/)
 - [PEP 20 - The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
-## Guides
+## Essential Python Knowledge
 
-- [Intermediate Python](http://book.pythontips.com/en/latest/)
-- [Intermediate Pythonista](http://intermediatepythonista.com/) [(book)](https://leanpub.com/intermediatepython/read)
-- [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
+- [Built-in Functions](https://docs.python.org/3/library/functions.html)
+- [Reserved Keywords](https://docs.python.org/3.6/reference/lexical_analysis.html#keywords)
 
 ## Data Structures
 
@@ -39,6 +40,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python#awesome-pyt
 - [Tuple](https://docs.python.org/3.5/tutorial/datastructures.html#tuples-and-sequences)
 - [Set](https://docs.python.org/3.5/tutorial/datastructures.html#sets)
 - [Dictionary](https://docs.python.org/3.5/tutorial/datastructures.html#dictionaries)
+
+## Guides
+
+- [Intermediate Python](http://book.pythontips.com/en/latest/)
+- [Intermediate Pythonista](http://intermediatepythonista.com/) [(book)](https://leanpub.com/intermediatepython/read)
+- [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 
 ## License
 
