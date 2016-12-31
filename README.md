@@ -21,6 +21,9 @@
 - [List](https://docs.python.org/3.5/tutorial/datastructures.html#more-on-lists)
   - [Using lists as Stacks](https://docs.python.org/3.5/tutorial/datastructures.html#using-lists-as-stacks)
   - [Using lists as Queues](https://docs.python.org/3.5/tutorial/datastructures.html#using-lists-as-queues)
+  - [List Comprehensions](https://docs.python.org/3.5/tutorial/datastructures.html#list-comprehensions)
+  - [List Comprehensions Explained](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
+  
 - [Tuple](https://docs.python.org/3.5/tutorial/datastructures.html#tuples-and-sequences)
 - [Set](https://docs.python.org/3.5/tutorial/datastructures.html#sets)
 - [Dictionary](https://docs.python.org/3.5/tutorial/datastructures.html#dictionaries)
