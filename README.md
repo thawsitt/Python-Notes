@@ -19,7 +19,8 @@
 ## Data Structures
 
 - [List](https://docs.python.org/3.5/tutorial/datastructures.html#more-on-lists)
-  - Using lists as [Stacks](https://docs.python.org/3.5/tutorial/datastructures.html#using-lists-as-stacks), [Queues](https://docs.python.org/3.5/tutorial/datastructures.html#using-lists-as-queues)
+  - [Using lists as Stacks](https://docs.python.org/3.5/tutorial/datastructures.html#using-lists-as-stacks)
+  - [Using lists as Queues](https://docs.python.org/3.5/tutorial/datastructures.html#using-lists-as-queues)
 - [Tuple](https://docs.python.org/3.5/tutorial/datastructures.html#tuples-and-sequences)
 - [Set](https://docs.python.org/3.5/tutorial/datastructures.html#sets)
 - [Dictionary](https://docs.python.org/3.5/tutorial/datastructures.html#dictionaries)
